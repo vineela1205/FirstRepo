@@ -1,5 +1,6 @@
 #!/usr/bin/env groovy
 #Adding acomment to test
+#data
 
 pipeline {
     agent any 

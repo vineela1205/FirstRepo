@@ -1,3 +1,3 @@
 git repo 
-creation of git
+creating git
 vbsdfbvsdfhjbvsdhjbvhjbsdjvhbhjdbhvsb
